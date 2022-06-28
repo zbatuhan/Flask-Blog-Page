@@ -1,2 +1,2 @@
-﻿# First Flask Framework Project
+﻿# Flask Blog Page
  
